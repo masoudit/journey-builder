@@ -1,6 +1,6 @@
 {
-  "name": "journeyBuilder",
-  "version": "1.0.0",
+  "name": "journey-builder",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
